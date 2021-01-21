@@ -7,10 +7,12 @@ by [Soroosh Shalileh](https://www.hse.ru/en/org/persons/316426865) and, [Boris M
 
 
 For more information on how to call our algorithm "SEANACs" or "SEFNACn" one can 
-refer to any the demo jupyter notebooks "clustering_results_Lawyers". 
+refer to any the demo jupyter notebooks "Demo_clustering_results_Lawyers". 
 
 Also this algorithm can be run through the terminal by calling:
   python SEANACs.py/SEFNACn --Name="name of dataset" --PreProcessing="z-m" --Run=1 
+
+  Note that the above method for calling our proposed algorithms requires the dataset to in .pickle format as it provided in data directory.  
 
 
 For generating similar synthetic data sets, One should call "synthetic_data_generator.py" as 
