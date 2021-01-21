@@ -1,4 +1,4 @@
-# SEFNACs_SEFNACn
+# SEFNAC methods
 
 
 The source codes, experimental test-beds and, the datasets of our paper titled 
