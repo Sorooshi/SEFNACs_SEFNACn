@@ -2,8 +2,7 @@
 
 
 The source codes, experimental test-beds and, the datasets of our paper titled 
-"Summable and Nonsummable Data-Driven Models for Community Detection in Feature-Rich Networks"
-by [Soroosh Shalileh](https://www.hse.ru/en/org/persons/316426865) and, [Boris Mirkin](https://www.hse.ru/en/staff/bmirkin)
+"Summable and Nonsummable Data-Driven Models for Community Detection in Feature-Rich Networks" by [Soroosh Shalileh](https://www.hse.ru/en/org/persons/316426865) and, [Boris Mirkin](https://www.hse.ru/en/staff/bmirkin), submmited to the journal of Social Network Analysis and Mining (SNAM).
 
 
 For more information on how to call our algorithm "SEANACs" or "SEFNACn" one can 
