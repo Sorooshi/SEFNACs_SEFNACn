@@ -6,7 +6,7 @@ The source codes, experimental test-beds and, the datasets of our paper titled
 
 
 For more information on how to call our algorithm "SEANACs" or "SEFNACn" one can 
-refer to the demo jupyter notebooks "Demo_clustering_results_Lawyers". 
+refer to the demo jupyter notebooks "demo.ipynb". 
 
 Also these algorithm can be run through the terminal by calling:
         
