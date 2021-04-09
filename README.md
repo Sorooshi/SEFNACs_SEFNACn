@@ -1,7 +1,7 @@
 # SEFNAC methods
 
 
-The source codes, experimental test-beds and, the datasets of our paper titled 
+The source codes, experimental test-beds and, the datasets of our paper entitled 
 "Summable and Nonsummable Data-Driven Models for Community Detection in Feature-Rich Networks" by [Soroosh Shalileh](https://www.hse.ru/en/org/persons/316426865) and, [Boris Mirkin](https://www.hse.ru/en/staff/bmirkin), submmited to the journal of Social Network Analysis and Mining (SNAM).
 
 
@@ -16,5 +16,5 @@ Also these algorithm can be run through the terminal by calling:
 
 
 For generating similar synthetic data sets, One should call "synthetic_data_generator.py" as 
-this is demonstrated in Jupyter notebook "MediumSize_synthetic_data.ipynb".
+this is demonstrated in Jupyter notebook "generate_synthetic_data.ipynb".
 
