@@ -18,3 +18,8 @@ Also these algorithm can be run through the terminal by calling:
 For generating similar synthetic data sets, One should call "synthetic_data_generator.py" as 
 this is demonstrated in Jupyter notebook "generate_synthetic_data.ipynb".
 
+
+
+Remark 1: I will provide a pip installation of this software.
+
+Remark 2:  I will add this algorithm to CDI Lib.
